@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cb738600-fd1f-4f32-a546-c0a8687a1905" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+    </list>
+    <ignored path="skypium.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="skypium" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Client.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Client.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.5176471">
+              <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+              <folding>
+                <element signature="e#405#457#0#PHP" expanded="true" />
+                <element signature="e#485#518#0#PHP" expanded="true" />
+                <element signature="e#654#791#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/composer.json" />
+        <option value="$PROJECT_DIR$/src/Client.php" />
+        <option value="$PROJECT_DIR$/bot.php" />
+        <option value="$PROJECT_DIR$/install.sh" />
+        <option value="$PROJECT_DIR$/selenium.sh" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-2" />
+    <option name="y" value="-29" />
+    <option name="width" value="1684" />
+    <option name="height" value="1081" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ColorIdeProjectViewPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ColorIdeProjectViewPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="skypium" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="skypium" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="skypium" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="skypium" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="skypium" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///var/www/skypium/selenium.sh" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/bin/node" />
+    <property name="js-jscs-package" value="/usr/lib/node_modules/jscs" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="BashConfigurationType" factoryName="Bash">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="/bin/bash" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cb738600-fd1f-4f32-a546-c0a8687a1905" name="Default" comment="" />
+      <created>1457523968888</created>
+      <option name="number" value="Default" />
+      <updated>1457523968888</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-2" y="-29" width="1684" height="1081" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24940476" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Get Gist" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/vendor/facebook/webdriver/lib/Remote/DesiredCapabilities.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5176471">
+          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+          <folding>
+            <marker date="1451577529000" expanded="true" signature="6:620" placeholder="//..." />
+            <marker date="1451577529000" expanded="true" signature="664:951" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="1013:8211" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="1103:1147" placeholder="..." />
+            <marker date="1451577529000" expanded="false" signature="1155:1204" placeholder=" @return string The name of the browser. ..." />
+            <marker date="1451577529000" expanded="true" signature="1243:1312" placeholder="..." />
+            <marker date="1451577529000" expanded="false" signature="1320:1390" placeholder=" @param string $browser_name ..." />
+            <marker date="1451577529000" expanded="true" signature="1442:1533" placeholder="..." />
+            <marker date="1451577529000" expanded="false" signature="1541:1593" placeholder=" @return string The version of the browser. ..." />
+            <marker date="1451577529000" expanded="true" signature="1628:1692" placeholder="..." />
+            <marker date="1451577529000" expanded="false" signature="1700:1765" placeholder=" @param string $version ..." />
+            <marker date="1451577529000" expanded="true" signature="1808:1889" placeholder="..." />
+            <marker date="1451577529000" expanded="false" signature="1897:1972" placeholder=" @param string $name ..." />
+            <marker date="1451577529000" expanded="true" signature="2015:2048" placeholder="..." />
+            <marker date="1451577529000" expanded="false" signature="2056:2143" placeholder=" @param string $name ..." />
+            <marker date="1451577529000" expanded="true" signature="2194:2246" placeholder="..." />
+            <marker date="1451577529000" expanded="false" signature="2254:2304" placeholder=" @return string The name of the platform. ..." />
+            <marker date="1451577529000" expanded="true" signature="2340:2405" placeholder="..." />
+            <marker date="1451577529000" expanded="false" signature="2413:2479" placeholder=" @param string $platform ..." />
+            <marker date="1451577529000" expanded="true" signature="2524:2607" placeholder="..." />
+            <marker date="1451577529000" expanded="false" signature="2615:2718" placeholder=" @param string $capability_name ..." />
+            <marker date="1451577529000" expanded="true" signature="2761:2812" placeholder="..." />
+            <marker date="1451577529000" expanded="false" signature="2820:2873" placeholder=" @return bool Whether javascript is enabled. ..." />
+            <marker date="1451577529000" expanded="true" signature="2917:2995" placeholder="..." />
+            <marker date="1451577529000" expanded="false" signature="3003:3225" placeholder=" This is a htmlUnit-only option. ..." />
+            <marker date="1451577529000" expanded="true" signature="3278:3679" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="3385:3585" placeholder="..." />
+            <marker date="1451577529000" expanded="false" signature="3687:3710" placeholder=" @return array ..." />
+            <marker date="1451577529000" expanded="true" signature="3742:4315" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="3888:4015" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="4158:4278" placeholder="..." />
+            <marker date="1451577529000" expanded="false" signature="4323:4409" placeholder=" @param string $key ..." />
+            <marker date="1451577529000" expanded="true" signature="4450:4511" placeholder="..." />
+            <marker date="1451577529000" expanded="false" signature="4519:4593" placeholder=" @param string $key ..." />
+            <marker date="1451577529000" expanded="true" signature="4643:4752" placeholder="..." />
+            <marker date="1451577529000" expanded="false" signature="4760:4797" placeholder=" @return DesiredCapabilities ..." />
+            <marker date="1451577529000" expanded="true" signature="4836:5038" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="4878:5032" placeholder="..." />
+            <marker date="1451577529000" expanded="false" signature="5046:5083" placeholder=" @return DesiredCapabilities ..." />
+            <marker date="1451577529000" expanded="true" signature="5121:5318" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="5163:5312" placeholder="..." />
+            <marker date="1451577529000" expanded="false" signature="5326:5363" placeholder=" @return DesiredCapabilities ..." />
+            <marker date="1451577529000" expanded="true" signature="5402:5898" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="5445:5595" placeholder="..." />
+            <marker date="1451577529000" expanded="false" signature="5906:5943" placeholder=" @return DesiredCapabilities ..." />
+            <marker date="1451577529000" expanded="true" signature="5983:6182" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="6025:6176" placeholder="..." />
+            <marker date="1451577529000" expanded="false" signature="6190:6227" placeholder=" @return DesiredCapabilities ..." />
+            <marker date="1451577529000" expanded="true" signature="6273:6519" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="6316:6467" placeholder="..." />
+            <marker date="1451577529000" expanded="false" signature="6527:6564" placeholder=" @return DesiredCapabilities ..." />
+            <marker date="1451577529000" expanded="true" signature="6612:6809" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="6654:6803" placeholder="..." />
+            <marker date="1451577529000" expanded="false" signature="6817:6854" placeholder=" @return DesiredCapabilities ..." />
+            <marker date="1451577529000" expanded="true" signature="6892:7089" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="6934:7083" placeholder="..." />
+            <marker date="1451577529000" expanded="false" signature="7097:7134" placeholder=" @return DesiredCapabilities ..." />
+            <marker date="1451577529000" expanded="true" signature="7170:7365" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="7212:7359" placeholder="..." />
+            <marker date="1451577529000" expanded="false" signature="7373:7410" placeholder=" @return DesiredCapabilities ..." />
+            <marker date="1451577529000" expanded="true" signature="7447:7643" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="7489:7637" placeholder="..." />
+            <marker date="1451577529000" expanded="false" signature="7651:7688" placeholder=" @return DesiredCapabilities ..." />
+            <marker date="1451577529000" expanded="true" signature="7726:7923" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="7768:7917" placeholder="..." />
+            <marker date="1451577529000" expanded="false" signature="7931:7968" placeholder=" @return DesiredCapabilities ..." />
+            <marker date="1451577529000" expanded="true" signature="8009:8209" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="8051:8203" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4852941">
+          <caret line="15" column="15" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
+          <folding>
+            <marker date="1457535061095" expanded="true" signature="0:355" placeholder="{&quot;name&quot;: &quot;exfriend/skypium&quot;...}" />
+            <marker date="1457535061095" expanded="true" signature="113:151" placeholder="{&quot;facebook/webdriver&quot;: &quot;^1.1&quot;...}" />
+            <marker date="1457535061095" expanded="true" signature="186:256" placeholder="[...]" />
+            <marker date="1457535061095" expanded="true" signature="192:252" placeholder="{&quot;name&quot;: &quot;exfriend&quot;...}" />
+            <marker date="1457535061095" expanded="true" signature="272:323" placeholder="{...}" />
+            <marker date="1457535061095" expanded="true" signature="287:319" placeholder="{&quot;Skypium\&quot;: &quot;src&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/facebook/webdriver/lib/Remote/RemoteWebDriver.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.67941177">
+          <caret line="27" column="6" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
+          <folding>
+            <marker date="1451577529000" expanded="true" signature="6:620" placeholder="//..." />
+            <marker date="1451577529000" expanded="true" signature="664:1039" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="1105:13527" placeholder="..." />
+            <marker date="1451577529000" expanded="false" signature="1111:1145" placeholder=" @var HttpCommandExecutor ..." />
+            <marker date="1451577529000" expanded="false" signature="1176:1197" placeholder=" @var string ..." />
+            <marker date="1451577529000" expanded="false" signature="1229:1255" placeholder=" @var RemoteMouse ..." />
+            <marker date="1451577529000" expanded="false" signature="1283:1312" placeholder=" @var RemoteKeyboard ..." />
+            <marker date="1451577529000" expanded="false" signature="1343:1375" placeholder=" @var RemoteTouchScreen ..." />
+            <marker date="1451577529000" expanded="false" signature="1403:1437" placeholder=" @var RemoteExecuteMethod ..." />
+            <marker date="1451577529000" expanded="false" signature="1513:1953" placeholder=" Construct the RemoteWebDriver by a desired capabilities. ..." />
+            <marker date="1451577529000" expanded="true" signature="2196:3155" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="2432:2501" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="2627:2698" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="2742:2807" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="3121:3130" placeholder="..." />
+            <marker date="1451577529000" expanded="false" signature="3163:3595" placeholder=" [Experimental] Construct the RemoteWebDriver by an existing session. ..." />
+            <marker date="1451577529000" expanded="true" signature="3706:3860" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="3806:3835" placeholder="..." />
+            <marker date="1451577529000" expanded="false" signature="3868:3959" placeholder=" Close the current window. ..." />
+            <marker date="1451577529000" expanded="true" signature="3989:4062" placeholder="..." />
+            <marker date="1451577529000" expanded="false" signature="4070:4311" placeholder=" Find the first WebDriverElement using the given mechanism. ..." />
+            <marker date="1451577529000" expanded="true" signature="4362:4593" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="4478:4532" placeholder="..." />
+            <marker date="1451577529000" expanded="false" signature="4601:4858" placeholder=" Find all WebDriverElements within the current page using the given ..." />
+            <marker date="1451577529000" expanded="true" signature="4910:5251" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="5027:5082" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="5156:5225" placeholder="..." />
+            <marker date="1451577529000" expanded="false" signature="5261:5418" placeholder=" Load a new web page in the current browser window. ..." />
+            <marker date="1451577529000" expanded="true" signature="5450:5565" placeholder="..." />
+            <marker date="1451577529000" expanded="false" signature="5573:5698" placeholder=" Get a string representing the current URL that the browser is looking at. ..." />
+            <marker date="1451577529000" expanded="true" signature="5736:5798" placeholder="..." />
+            <marker date="1451577529000" expanded="false" signature="5806:5905" placeholder=" Get the source of the last loaded page. ..." />
+            <marker date="1451577529000" expanded="true" signature="5943:6005" placeholder="..." />
+            <marker date="1451577529000" expanded="false" signature="6013:6113" placeholder=" Get the title of the current page. ..." />
+            <marker date="1451577529000" expanded="true" signature="6146:6202" placeholder="..." />
+            <marker date="1451577529000" expanded="false" signature="6210:6372" placeholder=" Return an opaque handle to this window that uniquely identifies it within ..." />
+            <marker date="1451577529000" expanded="true" signature="6412:6511" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="6439:6506" placeholder="..." />
+            <marker date="1451577529000" expanded="false" signature="6519:6669" placeholder=" Get all window handles available to the current session. ..." />
+            <marker date="1451577529000" expanded="true" signature="6710:6784" placeholder="..." />
+            <marker date="1451577529000" expanded="false" signature="6792:6876" placeholder=" Quits this driver, closing every associated window. ..." />
+            <marker date="1451577529000" expanded="true" signature="6905:6977" placeholder="..." />
+            <marker date="1451577529000" expanded="false" signature="6985:7090" placeholder=" Prepare arguments for JavaScript injection ..." />
+            <marker date="1451577529000" expanded="true" signature="7154:7505" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="7220:7483" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="7268:7332" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="7340:7477" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="7372:7439" placeholder="..." />
+            <marker date="1451577529000" expanded="false" signature="7513:7909" placeholder=" Inject a snippet of JavaScript into the page for execution in the context ..." />
+            <marker date="1451577529000" expanded="true" signature="7982:8166" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="8003:8094" placeholder="..." />
+            <marker date="1451577529000" expanded="false" signature="8174:8663" placeholder=" Inject a snippet of JavaScript into the page for asynchronous execution in ..." />
+            <marker date="1451577529000" expanded="true" signature="8741:8949" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="8762:8853" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="8882:8944" placeholder="..." />
+            <marker date="1451577529000" expanded="false" signature="8957:9128" placeholder=" Take a screenshot of the current page. ..." />
+            <marker date="1451577529000" expanded="true" signature="9182:9371" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="9215:9268" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="9290:9343" placeholder="..." />
+            <marker date="1451577529000" expanded="false" signature="9379:9702" placeholder=" Construct a new WebDriverWait by the current WebDriver instance. ..." />
+            <marker date="1451577529000" expanded="true" signature="9799:9897" placeholder="..." />
+            <marker date="1451577529000" expanded="false" signature="9905:10062" placeholder=" An abstraction for managing stuff you would do in a browser menu. For ..." />
+            <marker date="1451577529000" expanded="true" signature="10093:10156" placeholder="..." />
+            <marker date="1451577529000" expanded="false" signature="10164:10345" placeholder=" An abstraction allowing the driver to access the browser's history and to ..." />
+            <marker date="1451577529000" expanded="true" signature="10378:10444" placeholder="..." />
+            <marker date="1451577529000" expanded="false" signature="10452:10568" placeholder=" Switch to a different window or frame. ..." />
+            <marker date="1451577529000" expanded="true" signature="10601:10674" placeholder="..." />
+            <marker date="1451577529000" expanded="false" signature="10682:10711" placeholder=" @return RemoteMouse ..." />
+            <marker date="1451577529000" expanded="true" signature="10744:10868" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="10769:10839" placeholder="..." />
+            <marker date="1451577529000" expanded="false" signature="10876:10908" placeholder=" @return RemoteKeyboard ..." />
+            <marker date="1451577529000" expanded="true" signature="10944:11080" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="10972:11048" placeholder="..." />
+            <marker date="1451577529000" expanded="false" signature="11088:11123" placeholder=" @return RemoteTouchScreen ..." />
+            <marker date="1451577529000" expanded="true" signature="11156:11286" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="11181:11257" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="11330:11466" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="11363:11429" placeholder="..." />
+            <marker date="1451577529000" expanded="false" signature="11474:11550" placeholder=" Construct a new action builder. ..." />
+            <marker date="1451577529000" expanded="true" signature="11581:11624" placeholder="..." />
+            <marker date="1451577529000" expanded="false" signature="11632:11783" placeholder=" Return the WebDriverElement with the given id. ..." />
+            <marker date="1451577529000" expanded="true" signature="11824:11892" placeholder="..." />
+            <marker date="1451577529000" expanded="false" signature="11900:12039" placeholder=" Set the command executor of this RemoteWebdriver ..." />
+            <marker date="1451577529000" expanded="true" signature="12116:12170" placeholder="..." />
+            <marker date="1451577529000" expanded="false" signature="12178:12274" placeholder=" Set the command executor of this RemoteWebdriver ..." />
+            <marker date="1451577529000" expanded="true" signature="12317:12348" placeholder="..." />
+            <marker date="1451577529000" expanded="false" signature="12356:12473" placeholder=" Set the session id of the RemoteWebDriver. ..." />
+            <marker date="1451577529000" expanded="true" signature="12521:12578" placeholder="..." />
+            <marker date="1451577529000" expanded="false" signature="12586:12661" placeholder=" Get current selenium sessionID ..." />
+            <marker date="1451577529000" expanded="true" signature="12698:12730" placeholder="..." />
+            <marker date="1451577529000" expanded="false" signature="12738:12882" placeholder=" Get all selenium sessions. ..." />
+            <marker date="1451577529000" expanded="true" signature="13001:13268" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="13332:13525" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/facebook/webdriver/lib/WebDriverWait.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3009804">
+          <caret line="41" column="4" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="4" />
+          <folding>
+            <marker date="1451577529000" expanded="true" signature="6:620" placeholder="//..." />
+            <marker date="1451577529000" expanded="true" signature="657:760" placeholder="..." />
+            <marker date="1451577529000" expanded="false" signature="765:893" placeholder=" A utility class, designed to help the user to wait until a condition turns ..." />
+            <marker date="1451577529000" expanded="true" signature="917:2334" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="1115:1276" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="1284:1624" placeholder=" Calls the function provided with the driver as an argument until the return ..." />
+            <marker date="1451577529000" expanded="true" signature="1680:2332" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="1791:2223" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="1803:2105" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="1868:1954" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="1962:2036" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="2061:2097" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="2142:2179" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="2252:2286" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/facebook/webdriver/lib/WebDriverExpectedCondition.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3009804">
+          <caret line="35" column="4" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
+          <folding>
+            <marker date="1451577529000" expanded="true" signature="6:620" placeholder="//..." />
+            <marker date="1451577529000" expanded="true" signature="657:884" placeholder="..." />
+            <marker date="1451577529000" expanded="false" signature="889:996" placeholder=" Canned ExpectedConditions which are generally useful within webdriver tests. ..." />
+            <marker date="1451577529000" expanded="true" signature="1033:13842" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="1040:1189" placeholder=" A closure function to be executed by WebDriverWait. It should return ..." />
+            <marker date="1451577529000" expanded="true" signature="1216:1299" placeholder=" @return (function():T) a closure function to be executed by WebDriverWait ..." />
+            <marker date="1451577529000" expanded="true" signature="1332:1360" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="1405:1435" placeholder="..." />
+            <marker date="1451577529000" expanded="false" signature="1443:1686" placeholder=" An expectation for checking the title of a page. ..." />
+            <marker date="1451577529000" expanded="true" signature="1731:1879" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="1814:1868" placeholder="..." />
+            <marker date="1451577529000" expanded="false" signature="1887:2110" placeholder=" An expectation for checking substring of a page Title. ..." />
+            <marker date="1451577529000" expanded="true" signature="2161:2324" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="2244:2313" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="2332:2655" placeholder=" An expectation for checking that an element is present on the DOM of a ..." />
+            <marker date="1451577529000" expanded="true" signature="2726:2866" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="2806:2855" placeholder="..." />
+            <marker date="1451577529000" expanded="false" signature="2874:3278" placeholder=" An expectation for checking that an element is present on the DOM of a page ..." />
+            <marker date="1451577529000" expanded="true" signature="3351:3658" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="3431:3647" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="3445:3562" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="3607:3639" placeholder="..." />
+            <marker date="1451577529000" expanded="false" signature="3666:4083" placeholder=" An expectation for checking that an element, known to be present on the DOM ..." />
+            <marker date="1451577529000" expanded="true" signature="4152:4313" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="4237:4302" placeholder="..." />
+            <marker date="1451577529000" expanded="false" signature="4321:4605" placeholder=" An expectation for checking that there is at least one element present on a ..." />
+            <marker date="1451577529000" expanded="true" signature="4682:4884" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="4762:4873" placeholder="..." />
+            <marker date="1451577529000" expanded="false" signature="4892:5202" placeholder=" An expectation for checking if the given text is present in the specified ..." />
+            <marker date="1451577529000" expanded="true" signature="5287:5614" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="5374:5603" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="5388:5518" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="5563:5595" placeholder="..." />
+            <marker date="1451577529000" expanded="false" signature="5622:5955" placeholder=" An expectation for checking if the given text is present in the specified ..." />
+            <marker date="1451577529000" expanded="true" signature="6045:6384" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="6132:6373" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="6146:6288" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="6333:6365" placeholder="..." />
+            <marker date="1451577529000" expanded="false" signature="6392:6777" placeholder=" Expectation for checking if iFrame exists. ..." />
+            <marker date="1451577529000" expanded="true" signature="6854:7116" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="6945:7105" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="6959:7029" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="7064:7097" placeholder="..." />
+            <marker date="1451577529000" expanded="false" signature="7124:7395" placeholder=" An expectation for checking that an element is either invisible or not ..." />
+            <marker date="1451577529000" expanded="true" signature="7470:7800" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="7550:7789" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="7564:7635" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="7672:7704" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="7749:7781" placeholder="..." />
+            <marker date="1451577529000" expanded="false" signature="7808:8152" placeholder=" An expectation for checking that an element with text is either invisible ..." />
+            <marker date="1451577529000" expanded="true" signature="8242:8585" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="8329:8574" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="8343:8420" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="8457:8489" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="8534:8566" placeholder="..." />
+            <marker date="1451577529000" expanded="false" signature="8593:8901" placeholder=" An expectation for checking an element is visible and enabled such that you ..." />
+            <marker date="1451577529000" expanded="true" signature="8968:9561" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="9179:9550" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="9214:9295" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="9311:9465" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="9371:9411" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="9419:9455" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="9510:9542" placeholder="..." />
+            <marker date="1451577529000" expanded="false" signature="9569:9827" placeholder=" Wait until an element is no longer attached to the DOM. ..." />
+            <marker date="1451577529000" expanded="true" signature="9895:10156" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="9980:10145" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="9994:10060" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="10105:10137" placeholder="..." />
+            <marker date="1451577529000" expanded="false" signature="10164:10823" placeholder=" Wrapper for a condition, which allows for elements to update by redrawing. ..." />
+            <marker date="1451577529000" expanded="true" signature="10901:11173" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="10988:11162" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="11002:11077" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="11122:11154" placeholder="..." />
+            <marker date="1451577529000" expanded="false" signature="11181:11403" placeholder=" An expectation for checking if the given element is selected. ..." />
+            <marker date="1451577529000" expanded="true" signature="11468:11577" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="11534:11572" placeholder="..." />
+            <marker date="1451577529000" expanded="false" signature="11585:11854" placeholder=" An expectation for checking if the given element is selected. ..." />
+            <marker date="1451577529000" expanded="true" signature="11952:12609" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="12006:12197" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="12112:12182" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="12248:12605" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="12354:12590" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="12370:12499" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="12544:12580" placeholder="..." />
+            <marker date="1451577529000" expanded="false" signature="12617:12794" placeholder=" An expectation for whether an alert() box is present. ..." />
+            <marker date="1451577529000" expanded="true" signature="12840:13325" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="12910:13314" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="12924:13239" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="13274:13306" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="13333:13571" placeholder=" An expectation with the logical opposite condition of the given condition. ..." />
+            <marker date="1451577529000" expanded="true" signature="13643:13840" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="13730:13829" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/facebook/webdriver/lib/WebDriverSearchContext.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.64705884">
+          <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
+          <folding>
+            <marker date="1451577529000" expanded="true" signature="6:620" placeholder="//..." />
+            <marker date="1451577529000" expanded="false" signature="656:766" placeholder=" The interface for WebDriver and WebDriverElement which is able to search for ..." />
+            <marker date="1451577529000" expanded="true" signature="803:1453" placeholder="..." />
+            <marker date="1451577529000" expanded="true" signature="810:1081" placeholder=" Find the first WebDriverElement within this element using the given ..." />
+            <marker date="1451577529000" expanded="false" signature="1143:1396" placeholder=" Find all WebDriverElements within this element using the given mechanism. ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/install.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.25882354">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/selenium.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.032352943">
+          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bot.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.87461776">
+          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding>
+            <marker date="1457538206936" expanded="true" signature="270:361" placeholder="..." />
+            <marker date="1457538206936" expanded="true" signature="709:814" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.032352943">
+          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Client.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5176471">
+          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+          <folding>
+            <element signature="e#405#457#0#PHP" expanded="true" />
+            <element signature="e#485#518#0#PHP" expanded="true" />
+            <element signature="e#654#791#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
